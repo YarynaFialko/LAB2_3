@@ -1,3 +1,7 @@
+It is a web-application that allows a user to see on the map their friend's locations.
+
+http://yarynafialko.pythonanywhere.com/
+
 
 ![image](https://user-images.githubusercontent.com/92580927/154559204-cccd3384-18ab-4a00-bdc6-2d9f93f20e39.png)
 Enter Twitter ID without "@" sign.
